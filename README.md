@@ -27,8 +27,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="35" height="35" />
 
 
-####-Spring, SpringBoot, Hybris
-####-Scikit-Learn, Pandas, NumPy, Spicy
+-Spring, SpringBoot, Hybris, Scikit-Learn, Pandas, NumPy & Spicy
 
 
 <br/><br/>
@@ -39,7 +38,7 @@
 ### Data
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="35" height="35" />
 
-####-MS SQL
+-MS SQL
 
 <br/><br/>
 ### Tools
@@ -51,12 +50,9 @@
 <img align="left" alt="Visual Studio Code" width="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
 
-####-XAMPP
-####-Post Man
-####-Ant
+-XAMPP, Post Man & Ant
 
 
 <br /><br />
 
-<br /><br />
-![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/%C3%B6mer-atay%C4%B1lmaz-180006151/)
+
